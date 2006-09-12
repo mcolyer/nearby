@@ -1,0 +1,10 @@
+Requires:
+Python 2.3
+Twisted 2.0.1
+GTK 2.6.0
+PyGTK 2.6.3
+
+Then to start the program simply run:
+python framework.py from inside this directory.
+
+Also patches, packaging and feedback is welcomed at linuxcoder@colyer.org.
